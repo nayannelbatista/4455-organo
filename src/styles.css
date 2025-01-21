@@ -15,3 +15,17 @@ body, html {
   --font-weight-normal: 400;
   --font-weight-bold: 700;
 }  
+
+.texto-titulo {
+  font-family: var(--font-prata);
+  font-size: 40px;
+  font-weight: var(--font-weight-normal);
+  line-height: 72px;
+  text-align: center;
+  color: var(--color-primaria);
+}
+
+.linha-destaque {
+  display: block;
+  margin: 0 auto;
+}
