@@ -2,3 +2,7 @@
   width: 64px;
   border-bottom: 4px solid var(--color-primaria);
 }
+
+section span {
+  margin-bottom: 64px;
+}
